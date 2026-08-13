@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TruckTracker",
+    "slug": "trucktracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "backgroundColor": "#F6F8FA"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.trucktracker.app" }
+  }
+}
